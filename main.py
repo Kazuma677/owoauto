@@ -248,8 +248,8 @@ async def w(ctx):
             await ctx.send('Owob')
             print(f"{Fore.GREEN}succefully Wb")
             await asyncio.sleep(3)
-            await ctx.send('Owocurse')
-            print(f"{Fore.GREEN}succefully Wcurse")
+            await ctx.send('Owopray')
+            print(f"{Fore.GREEN}succefully Owopray")
             await asyncio.sleep(16)    
             
 # @bot.command()
